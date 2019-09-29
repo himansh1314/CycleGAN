@@ -6,3 +6,5 @@ Here, I trained the CycleGAN model on Winter=>Summer dataset, where the images o
 References
 Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros - "Unpaired Image-to-Image Translation
 using Cycle-Consistent Adversarial Networks", Berkeley AI Research (BAIR) laboratory, UC Berkeley.
+This code has been heavily borrowed from the repository - https://github.com/eriklindernoren/Keras-GAN. Very grateful to have people
+like him.
